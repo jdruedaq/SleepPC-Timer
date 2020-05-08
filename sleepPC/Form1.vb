@@ -124,6 +124,6 @@
     End Sub
 
     Private Sub eatect_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles eatect.LinkClicked
-        System.Diagnostics.Process.Start("https://www.eatect.com")
+        System.Diagnostics.Process.Start("https://www.oneago.com")
     End Sub
 End Class

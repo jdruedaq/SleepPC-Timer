@@ -271,16 +271,16 @@
     <value>True</value>
   </data>
   <data name="eatect.Location" type="System.Drawing.Point, System.Drawing">
-    <value>111, 98</value>
+    <value>152, 98</value>
   </data>
   <data name="eatect.Size" type="System.Drawing.Size, System.Drawing">
-    <value>118, 13</value>
+    <value>45, 13</value>
   </data>
   <data name="eatect.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
   <data name="eatect.Text" xml:space="preserve">
-    <value>Easy Technology Tools</value>
+    <value>Oneago</value>
   </data>
   <data name="&gt;&gt;eatect.Name" xml:space="preserve">
     <value>eatect</value>
